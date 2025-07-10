@@ -33,8 +33,8 @@ Sales Reporting: SQL queries for KPIs like total revenue, top-selling products, 
 
 🚀 How to Use
 Clone the repo
-Load schema.sql into your DBMS
-Run insert_data.sql to populate with sample data
+Load " .sql " into your DBMS
+Run InsertScripts.sql to populate with sample data
 Execute queries from DMDDProject4_routines.sql for analysis
 
 
