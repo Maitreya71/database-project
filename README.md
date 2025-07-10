@@ -36,25 +36,25 @@ Sales Reporting: SQL queries for KPIs like total revenue, top-selling products, 
 
  ┣ 📜 Database scripts 
  
-       |- ┣ 📜 DMDDProject4_routines.sql     # Routines 
+       |- ┣ 📜 DMDDProject4_routines.sql      # Routines 
    
-       |- ┣ 📜 DDLScripts.sql                # DDL scripts
+       |- ┣ 📜 DDLScripts.sql                 # DDL scripts
    
-       |- ┣ 📜 InsertScripts.sql             # Insert records 
+       |- ┣ 📜 InsertScripts.sql              # Insert records 
    
-       |- ┣ 📜 Encryption.sql                # encryption scripts
+       |- ┣ 📜 Encryption.sql                 # encryption scripts
    
-       |- ┣ 📜 routinesViewsAndTriggers.sql  # more routines, triggers, stored procedures
+       |- ┣ 📜 routinesViewsAndTriggers.sql   # more routines, triggers, stored procedures
    
- ┣ 📜 Database_ERD.pdf                   # ERD diagram using MS Visio
+ ┣ 📜 Database_ERD.pdf                        # ERD diagram using MS Visio
  
- ┣ 📜 script_implementation.pdf          # script summary
+ ┣ 📜 script_implementation.pdf               # script summary
  
- ┣ 📜 Database_Implementation.pdf        # database implementation
- 
- ┣ 📜 database_presentation.pdf          # Database summary with goals & objectives
- 
- ┣ 📜 README.md                          # Project documentation
+ ┣ 📜 Database_Implementation.pdf             # database implementation
+   
+ ┣ 📜 database_presentation.pdf               # Database summary with goals & objectives
+  
+ ┣ 📜 README.md                               # Project documentation
 
 
 🚀 How to Use:
