@@ -1,4 +1,5 @@
 **An E-Commerce Clothing company database created using MySQL**
+
 **📌 Overview :**
 
 This project involves designing and implementing a relational E-commerce database to simulate the backend structure of an online shopping platform. 
