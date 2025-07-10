@@ -18,7 +18,7 @@ Payment System: Capture payment method, transaction amount, and timestamps.
 Inventory Tracking: Monitor stock levels and supplier restocks.
 Sales Reporting: SQL queries for KPIs like total revenue, top-selling products, and customer order history.
 
-📦E-commerce-database
+📦E-commerce database
  ┣ 📜 Database scripts             
    |- ┣ 📜 DMDDProject4_routines.sql     # Routines 
    |- ┣ 📜 DDLScripts.sql                # DDL scripts
@@ -27,6 +27,7 @@ Sales Reporting: SQL queries for KPIs like total revenue, top-selling products, 
    |- ┣ 📜 routinesViewsAndTriggers.sql  # more routines, triggers, stored procedures
  ┣ 📜 Database_ERD.pdf                   # ERD diagram using MS Visio
  ┣ 📜 script_implementation.pdf          # script summary
+ ┣ 📜 Database_Implementation.pdf        # database implementation
  ┣ 📜 database_presentation.pdf          # Database summary with goals & objectives
  ┣ 📜 README.md                          # Project documentation
 
