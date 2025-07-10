@@ -26,6 +26,7 @@ Sales Reporting: SQL queries for KPIs like total revenue, top-selling products, 
    |- ┣ 📜 Encryption.sql                # encryption scripts
    |- ┣ 📜 routinesViewsAndTriggers.sql  # more routines, triggers, stored procedures
  ┣ 📜 Database_ERD.pdf                   # ERD diagram using MS Visio
+ ┣ 📜 script_implementation.pdf          # script summary
  ┣ 📜 database_presentation.pdf          # Database summary with goals & objectives
  ┣ 📜 README.md                          # Project documentation
 
