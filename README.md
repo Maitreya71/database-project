@@ -5,17 +5,26 @@ Several database objects are created consisting of DDL,DML,DCL and TCL queries, 
 
 🔧 Tech Stack
 Database: MySQL 
+
 Data Modeling: ER diagrams using MS Visio, normalization to 3NF,referential integrity constraints 
+
 Query Language: SQL (DDL, DML, DCL, TCL)
+
 Report: Power BI
+
 Tools: MySQL Workbench, MS Visio, Power BI 
 
 📂 Key Features
 Customer Management: Store customer profiles, contact info, and addresses.
+
 Product Catalog: Track product details, categories, pricing, and stock.
+
 Order Processing: Record customer orders, order items, shipment status.
+
 Payment System: Capture payment method, transaction amount, and timestamps.
+
 Inventory Tracking: Monitor stock levels and supplier restocks.
+
 Sales Reporting: SQL queries for KPIs like total revenue, top-selling products, and customer order history.
 
 📦E-commerce database
