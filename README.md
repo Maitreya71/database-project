@@ -1,4 +1,4 @@
-**An E-Commerce Clothing company database created using MySQL**
+**An E-Commerce Clothing company database created using SQL**
 
 **📌 Overview :**
 
